@@ -1,0 +1,6 @@
+{
+  "name": "PjBL Coastal-Gov AI Assistant",
+  "description": "Sistem asisten ahli dan manajer proyek interaktif berbasis AI untuk Mata Kuliah Pengelolaan Sumber Daya Kelautan dan Pulau-Pulau Kecil (Dr. Bruri Melky Laimeheriwa, S.Pi., M.Si.)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
