@@ -51,7 +51,7 @@ export const LoginScreen: React.FC<LoginScreenProps> = ({ onLogin }) => {
         <div className="text-center space-y-3 border-b border-slate-800 pb-6">
           <div className="inline-flex items-center justify-center w-24 h-24 rounded-2xl bg-white/5 border border-cyan-500/30 shadow-xl p-2 mb-1">
             <img 
-              src="/public/assets/aistudio/logo-unpatti-satuta-trans_3a9e0d9e.png" 
+              src="/assets/aistudio/logo-unpatti-satuta-trans_3a9e0d9e.png" 
               alt="Logo Universitas Pattimura" 
               className="w-full h-full object-contain"
             />

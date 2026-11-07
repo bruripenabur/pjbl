@@ -28,7 +28,7 @@ export const LecturerDashboard: React.FC<LecturerDashboardProps> = ({
     
     // Add 2 cm Unpatti logo in PDF header
     try {
-      const imgUrl = '/public/assets/aistudio/logo-unpatti-satuta-trans_3a9e0d9e.png';
+      const imgUrl = '/assets/aistudio/logo-unpatti-satuta-trans_3a9e0d9e.png';
       const img = new Image();
       img.crossOrigin = 'Anonymous';
       img.src = imgUrl;

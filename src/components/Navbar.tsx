@@ -31,7 +31,7 @@ export const Navbar: React.FC<NavbarProps> = ({
       <div className="bg-gradient-to-r from-blue-950 via-slate-900 to-cyan-950 px-4 py-2 border-b border-slate-800 text-xs flex flex-wrap items-center justify-between gap-2">
         <div className="flex items-center space-x-2">
           <img 
-            src="/public/assets/aistudio/logo-unpatti-satuta-trans_3a9e0d9e.png" 
+            src="/assets/aistudio/logo-unpatti-satuta-trans_3a9e0d9e.png" 
             alt="Unpatti Logo" 
             className="w-5 h-5 object-contain"
           />
@@ -58,7 +58,7 @@ export const Navbar: React.FC<NavbarProps> = ({
         <div className="flex items-center space-x-3">
           <div className="w-10 h-10 rounded-xl bg-white/10 border border-cyan-500/30 p-1 flex items-center justify-center shadow-lg">
             <img 
-              src="/public/assets/aistudio/logo-unpatti-satuta-trans_3a9e0d9e.png" 
+              src="/assets/aistudio/logo-unpatti-satuta-trans_3a9e0d9e.png" 
               alt="Logo" 
               className="w-full h-full object-contain"
             />
